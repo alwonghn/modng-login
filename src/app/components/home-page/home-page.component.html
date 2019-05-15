@@ -1,0 +1,21 @@
+<p>
+  home-page works!
+</p>
+<!--move navbar to header component!-->
+<nav class="navbar navbar-expand-md navbar-dark bg-dark">
+  <ul class="navbar-nav">
+    <!-- <li><a routerLinkActive="active" routerLink="/home">Home</a></li> -->
+    <li class="nav-item">
+      <a class="nav-link disabled" routerLink="/home">Home</a>
+    </li>
+    <!-- <li><a routerLinkActive="active" routerLink="/login">Login</a></li> -->
+    <li class="nav-item">
+      <a class="nav-link active" routerLink="/login">Login</a>
+    </li>
+
+    <li class="nav-item">
+      <!-- <a class="nav-link" (click)="logout()">Logout</a> -->
+      <a class="nav-link active" routerLink="/logout">Logout</a>
+    </li>
+  </ul>
+</nav>
