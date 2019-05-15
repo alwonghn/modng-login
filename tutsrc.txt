@@ -1,0 +1,22 @@
+
+
+SOURCES: provided knowledge
+
+
+https://www.javainuse.com/spring/ang7-login : create a login component, authentication service, logout component, header component (not done yet- good to have),  route guard ( not done yet but good to have)
+
+
+https://www.javainuse.com/spring/ang7-basic : how to set up the authservice \ httpClient to send basic authentication headers to satisfy rest endpoint requirement of basic authentication
+
+https://angular.io/guide/http  :   auth service \ httpClient \ authenticate method - how to typecast the data returned
+
+
+https://stackoverflow.com/questions/51181737/angular-6-with-bootstrap-4-1-not-loading : bootstrap wire in angular 7
+
+
+
+
+
+
+
+
